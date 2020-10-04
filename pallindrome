@@ -6,7 +6,7 @@ def isPalindrome(s):
 #program to check pallindrome
 
 # Driver code
-s = "malayalam"
+s = "haveaniceday"
 ans = isPalindrome(s)
 
 if ans:
